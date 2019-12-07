@@ -1,0 +1,15 @@
+package com.duncan.apachepoipractice;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class Practice1 {
+
+	@Test
+	void demo1() {
+		XWPFDocument document = new XWPFDocument();
+		
+	}
+
+}

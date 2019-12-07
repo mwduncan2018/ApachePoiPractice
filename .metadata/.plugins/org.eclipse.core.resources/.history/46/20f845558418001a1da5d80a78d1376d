@@ -1,0 +1,9 @@
+package com.duncan.apachepoipractice.utilities;
+
+public class SimpleWord {
+
+	public void createBlankDocument() {
+		
+	}
+	
+}

@@ -1,0 +1,5 @@
+package com.duncan.apachepoipractice.utilities;
+
+public class ColorToRGB {
+
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Practice1" project="ApachePoiPractice" tests="6" started="6" failures="0" errors="0" ignored="0">
+  <testsuite name="com.duncan.apachepoipractice.Practice1" time="0.488" displayname="Practice1" uniqueid="[engine:junit-jupiter]/[class:com.duncan.apachepoipractice.Practice1]">
+    <testcase name="demo06_extractText" classname="com.duncan.apachepoipractice.Practice1" time="0.347" displayname="demo06_extractText()" uniqueid="[engine:junit-jupiter]/[class:com.duncan.apachepoipractice.Practice1]/[method:demo06_extractText()]"/>
+    <testcase name="demo02_writeParagraph" classname="com.duncan.apachepoipractice.Practice1" time="0.056" displayname="demo02_writeParagraph()" uniqueid="[engine:junit-jupiter]/[class:com.duncan.apachepoipractice.Practice1]/[method:demo02_writeParagraph()]"/>
+    <testcase name="demo03_applyBorder" classname="com.duncan.apachepoipractice.Practice1" time="0.024" displayname="demo03_applyBorder()" uniqueid="[engine:junit-jupiter]/[class:com.duncan.apachepoipractice.Practice1]/[method:demo03_applyBorder()]"/>
+    <testcase name="demo05_fontAlignment" classname="com.duncan.apachepoipractice.Practice1" time="0.032" displayname="demo05_fontAlignment()" uniqueid="[engine:junit-jupiter]/[class:com.duncan.apachepoipractice.Practice1]/[method:demo05_fontAlignment()]"/>
+    <testcase name="demo04_createTable" classname="com.duncan.apachepoipractice.Practice1" time="0.014" displayname="demo04_createTable()" uniqueid="[engine:junit-jupiter]/[class:com.duncan.apachepoipractice.Practice1]/[method:demo04_createTable()]"/>
+    <testcase name="demo01_writeDocxToFile" classname="com.duncan.apachepoipractice.Practice1" time="0.015" displayname="demo01_writeDocxToFile()" uniqueid="[engine:junit-jupiter]/[class:com.duncan.apachepoipractice.Practice1]/[method:demo01_writeDocxToFile()]"/>
+  </testsuite>
+</testrun>
