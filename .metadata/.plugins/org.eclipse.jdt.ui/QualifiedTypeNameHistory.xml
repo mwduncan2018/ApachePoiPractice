@@ -1,2 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.apache.poi.xwpf.usermodel.Borders"/>
+<fullyQualifiedTypeName name="org.apache.poi.xwpf.usermodel.XWPFTable"/>
+<fullyQualifiedTypeName name="org.apache.poi.xwpf.usermodel.XWPFTableRow"/>
+<fullyQualifiedTypeName name="org.apache.poi.xwpf.usermodel.ParagraphAlignment"/>
+<fullyQualifiedTypeName name="org.apache.poi.xwpf.extractor.XWPFWordExtractor"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="org.apache.poi.xwpf.usermodel.XWPFTableCell"/>
+<fullyQualifiedTypeName name="org.junit.Ignore"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="com.duncan.apachepoipractice.utilities.ColorToRGB"/>
+</qualifiedTypeNameHistroy>
